@@ -4,7 +4,7 @@ An interactive web app that turns raw UK road accident data into insights anyone
 
 ## Live app
 
-[Add your Streamlit Community Cloud URL here after deployment]
+[https://60-days-of-ai-road-accident-explorer.streamlit.app/]
 
 ## Features
 
