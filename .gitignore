@@ -1,0 +1,6 @@
+accidents_raw.csv
+data/accidents_clean.parquet
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
