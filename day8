@@ -1,0 +1,27 @@
+🌍 Day 8: I built a Personal Environmental Health Analyzer — and what it revealed about Kanpur shocked me.
+Most of us check the weather before stepping out. But almost nobody checks the air quality, water hardness, or how today's pollution is silently damaging their lungs, hair, and skin.
+So I built an AI-powered dashboard that does exactly that — live, interactive, and personalized.
+What the dashboard does:
+📊 Pulls live AQI, PM2.5 & PM10 data for 10 major Indian cities
+💧 Analyzes water quality — TDS, hardness & industrial contamination
+🫁 Shows how air quality impacts lungs, sleep, energy & performance
+💇 Reveals the real reason behind hair fall & dry skin (hard water!)
+🧪 Generates a personalized Environmental Health Report Card (A–F)
+🎛 Interactive filters, city comparisons & radar charts
+✅ Gives daily, seasonal & product recommendations
+What I found about Kanpur 👇
+AQI swings from 62 (safe) at 3 PM → 158 (unhealthy) at 5 AM
+PM2.5 is 9.7× the WHO safe annual guideline
+Water TDS: 433–537 mg/L (above safe limits)
+Chromium & lead traces from tanneries in groundwater
+Overall Environmental Health Score: 42/100 — Grade C
+Why each feature matters:
+AQI tracker → Know when it is actually safe to go outside or exercise
+Water quality score → Understand if your tap water is harming your hair & skin
+Health report card → One score that tells you your real environmental risk
+City comparison → See how your city stacks up before you relocate or travel
+Recommendations → Actionable steps, not just alarming data
+The most surprising insight? The biggest damage is not from going outside — it is from the water you shower in every single day. Hard water with high TDS physically breaks the hair shaft, strips skin oils, and deposits minerals on your scalp. No shampoo fixes that without treating the source.
+Built entirely with Claude — live web data fetching, Chart.js visualizations, interactive filters, and a full AI analysis layer. No dataset uploaded. The AI searched, cleaned, validated, and analyzed everything in real time.
+Drop your city in the comments — I will tell you your environmental health score. 👇
+hashtag#AIProjects hashtag#Day8of30 hashtag#EnvironmentalHealth hashtag#ABtalks hashtag#AirQuality hashtag#WaterQuality hashtag#Claude hashtag#GenerativeAI hashtag#BuildInPublic hashtag#DataDashboard hashtag#HealthTech hashtag#KanpurDiaries hashtag#ClimateAwareness hashtag#LinkedInLearning @Anthropic @ABTalksOnAI @AnilBajpai.
